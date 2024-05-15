@@ -44,6 +44,7 @@ Recent Master’s in Computer Engineering graduate specializing in cloud infrast
 
 
 <h2>Publications:</h2>
+
 - [Deep Learning Techniques for Cooperative Spectrum Sensing Under Generalized Fading Channels](https://ieeexplore.ieee.org/document/9767160)
 
 <!--
