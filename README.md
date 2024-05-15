@@ -17,7 +17,7 @@ Recent Master’s in Computer Engineering graduate specializing in cloud infrast
 --
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -34,6 +34,7 @@ Recent Master’s in Computer Engineering graduate specializing in cloud infrast
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+-->
 
 <h2> 📊 Stats</h2>
 
