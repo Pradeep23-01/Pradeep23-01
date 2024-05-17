@@ -39,6 +39,15 @@ Recent Master’s in Computer Engineering graduate specializing in cloud infrast
   - [Real-time Visual Speech and Emotion Recognition (Computer Vision)](https://github.com/Pradeep23-01/ViSpEr)
   - [Wikipidia QA - LLM based Question Answering (NLP)](https://github.com/Pradeep23-01/BERT-QA-SQuAD)
 
+<h2>👨‍💻 OSS Contributions:</h2>
+- <b>My Major GitHub contributions</b>
+
+  - [Expertizia - Peer Review Web App (MVC Function)](https://github.com/Pradeep23-01/expertiza)
+
+  
+  - [Writing Observer (System Design)](https://github.com/ETS-Next-Gen/writing_observer)
+
+
 
 
 <h2> 📊 Stats</h2>
