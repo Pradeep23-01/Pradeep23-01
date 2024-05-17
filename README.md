@@ -18,9 +18,10 @@ Recent Master’s in Computer Engineering graduate specializing in cloud infrast
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+
+- <b>Cloud & Infrastructure</b>
+  - [E-Commerce Web App](https://github.com/Pradeep23-01/ecommerce-cloud-native-app)
 <!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -32,9 +33,12 @@ Recent Master’s in Computer Engineering graduate specializing in cloud infrast
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
+
+- <b>Python</b>
+  - [Real-time Visual Speech and Emotion Recognition (Computer Vision)](https://github.com/Pradeep23-01/ViSpEr)
+  - [Wikipidia QA - LLM based Question Answering (NLP)](https://github.com/Pradeep23-01/BERT-QA-SQuAD)
+
 
 
 <h2> 📊 Stats</h2>
