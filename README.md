@@ -39,6 +39,7 @@ Recent Master’s in Computer Engineering graduate specializing in cloud infrast
 - <b>Python</b>
   - [Real-time Visual Speech and Emotion Recognition (Computer Vision)](https://github.com/Pradeep23-01/ViSpEr)
   - [Wikipidia QA - LLM based Question Answering (NLP)](https://github.com/Pradeep23-01/BERT-QA-SQuAD)
+  - [Terrain Recognition for Time Series Data](https://github.com/Pradeep23-01/Terrain-Identification-Timeseries)
 
 <h2> OSS Contributions:</h2>
 - <b>My Major GitHub contributions</b>
